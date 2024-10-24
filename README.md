@@ -1,2 +1,2 @@
 # CVgenerator
-- coming soon
+- coming soon to a repo near you
