@@ -1,7 +1,6 @@
 # CV Generator Script
 
-This Python script generates a cover letter based on a job posting from a specified URL. It extracts the company name, job title, and creates a personalized cover letter using provided personal information and qualifications. will be making more changes to this. Should i create an AI agent to do this ?
-
+This Python script generates a cover letter based on a job posting from a specified URL. It extracts the company name, job title, and creates a personalized cover letter using provided personal information and qualifications.
 ## Features
 
 - Fetches job details from a given URL.
